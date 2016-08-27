@@ -1,0 +1,19 @@
+{
+  "name": "heroku-demo",
+  "authors": [
+    "Anton Djurasaj <anton.djurasaj@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ]
+}
