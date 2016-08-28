@@ -49,6 +49,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # APP-SPECIFIC
 
+gem 'acts-as-taggable-on', '~> 4.0'
+gem 'bulk_insert', '~> 1.2'
+
 group :development, :test do
   gem 'rspec-rails'
 end
